@@ -1,2 +1,3 @@
 fallacy,a false idea that many people believe is true
+easily,without doubt; definitely
 
