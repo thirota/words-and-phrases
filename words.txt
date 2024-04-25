@@ -1,4 +1,4 @@
 fallacy,a false idea that many people believe is true
 easily,without doubt; definitely
 obscure,difficult to understand
-
+prevail,to exist or be very common at a particular time or in a particular place
