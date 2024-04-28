@@ -4,4 +4,5 @@ obscure,difficult to understand
 prevail,to exist or be very common at a particular time or in a particular place
 commensurate,"matching something in size, importance, quality, etc."
 mill,a factory that produces a particular type of material
+proceeds,"the money that you receive when you sell something or organize a performance, etc.; profits"
 
