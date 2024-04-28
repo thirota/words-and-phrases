@@ -7,6 +7,8 @@ mill,a factory that produces a particular type of material
 proceeds,"the money that you receive when you sell something or organize a performance, etc.; profits"
 waive,"to choose not to demand something in a particular case, even though you have a legal or official right to do so"
 unwavering,not changing or becoming weaker in any way
+effects,your personal possessions
+
 
 
 
