@@ -11,3 +11,6 @@ effects,your personal possessions
 interfere,"to get involved in and try to influence a situation that should not really involve you, in a way that annoys other people"
 indefinitely,for a period of time with no fixed limit
 equivalent,"a thing, amount, word, etc. that is equal in value, meaning or purpose to something else"
+apparently,according to what you have heard or read; according to the way something appears
+acclaim,to praise or welcome somebody/something publicly
+
