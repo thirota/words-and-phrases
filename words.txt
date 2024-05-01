@@ -13,4 +13,5 @@ indefinitely,for a period of time with no fixed limit
 equivalent,"a thing, amount, word, etc. that is equal in value, meaning or purpose to something else"
 apparently,according to what you have heard or read; according to the way something appears
 acclaim,to praise or welcome somebody/something publicly
+factual,based on or containing facts
 
