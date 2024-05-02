@@ -14,4 +14,6 @@ equivalent,"a thing, amount, word, etc. that is equal in value, meaning or purpo
 apparently,according to what you have heard or read; according to the way something appears
 acclaim,to praise or welcome somebody/something publicly
 factual,based on or containing facts
+shortlist,"a small number of candidates for a job, etc., who have been chosen from all the people who applied"
+prosper,"to develop in a successful way; to be successful, especially in making money"
 
