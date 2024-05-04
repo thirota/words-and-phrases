@@ -17,3 +17,6 @@ factual,based on or containing facts
 shortlist,"a small number of candidates for a job, etc., who have been chosen from all the people who applied"
 prosper,"to develop in a successful way; to be successful, especially in making money"
 compel,to force somebody to do something; to make something necessary
+glitch,a small problem or fault that stops something working successfully
+sturdy,(of an object) strong and not easily damaged
+
