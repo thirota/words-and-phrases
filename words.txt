@@ -20,4 +20,5 @@ compel,to force somebody to do something; to make something necessary
 glitch,a small problem or fault that stops something working successfully
 sturdy,(of an object) strong and not easily damaged
 fruitful,producing many useful results
+coarse,(of skin or cloth) rough
 
