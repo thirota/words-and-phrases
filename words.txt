@@ -22,4 +22,5 @@ sturdy,(of an object) strong and not easily damaged
 fruitful,producing many useful results
 coarse,(of skin or cloth) rough
 craft,"to make something using special skills, especially with your hands"
+adequate,"enough in quantity, or good enough in quality, for a particular purpose or need"
 
