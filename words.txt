@@ -21,4 +21,5 @@ glitch,a small problem or fault that stops something working successfully
 sturdy,(of an object) strong and not easily damaged
 fruitful,producing many useful results
 coarse,(of skin or cloth) rough
+craft,"to make something using special skills, especially with your hands"
 
