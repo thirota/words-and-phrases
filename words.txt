@@ -23,4 +23,4 @@ fruitful,producing many useful results
 coarse,(of skin or cloth) rough
 craft,"to make something using special skills, especially with your hands"
 adequate,"enough in quantity, or good enough in quality, for a particular purpose or need"
-
+genre,"a particular type or style of literature, art, film or music that you can recognize because of its special features"
