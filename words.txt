@@ -27,4 +27,5 @@ genre,"a particular type or style of literature, art, film or music that you can
 municipal,"connected with or belonging to a town, city or district that has its own local government"
 fierce,"(especially of actions or emotions) showing strong feelings or a lot of activity, often in a way that is violent"
 apparel,"(especially North American English) clothing, when it is being sold in shops"
+courteous,"polite, especially in a way that shows respect"
 
