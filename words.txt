@@ -28,4 +28,5 @@ municipal,"connected with or belonging to a town, city or district that has its 
 fierce,"(especially of actions or emotions) showing strong feelings or a lot of activity, often in a way that is violent"
 apparel,"(especially North American English) clothing, when it is being sold in shops"
 courteous,"polite, especially in a way that shows respect"
+bolster,to improve something or make it stronger
 
