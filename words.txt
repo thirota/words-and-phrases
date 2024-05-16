@@ -31,4 +31,4 @@ courteous,"polite, especially in a way that shows respect"
 bolster,to improve something or make it stronger
 substantial,"large in amount, value or importance"
 inception,"the start of an institution, an organization, etc."
-
+grasp,to understand something completely
