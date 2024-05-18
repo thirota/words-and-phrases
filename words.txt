@@ -34,3 +34,4 @@ inception,"the start of an institution, an organization, etc."
 grasp,to understand something completely
 magnificent,"extremely attractive and impressive; deserving praise"
 conventional,following what is traditional or the way something has been done for a long time
+tout,to try to persuade people that somebody/something is important or valuable by praising them/it
