@@ -36,3 +36,5 @@ magnificent,"extremely attractive and impressive; deserving praise"
 conventional,following what is traditional or the way something has been done for a long time
 tout,to try to persuade people that somebody/something is important or valuable by praising them/it
 convene,to arrange for people to come together for a formal meeting
+rewarding,"(of an activity, etc.) worth doing; that makes you happy because you think it is useful or important"
+
