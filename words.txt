@@ -39,4 +39,5 @@ convene,to arrange for people to come together for a formal meeting
 rewarding,"(of an activity, etc.) worth doing; that makes you happy because you think it is useful or important"
 provisional,arranged for the present time only and likely to be changed in the future
 resolute,strong and determined
+intriguing,very interesting because of being unusual or not having an obvious answer
 
