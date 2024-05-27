@@ -44,4 +44,5 @@ suffice,to be enough for somebody/something
 customary,"if something is customary, it is what people usually do in a particular place or situation"
 posture,the position in which you hold your body when standing or sitting
 exquisite,extremely beautiful or carefully made
+acquaintance,a person that you know but who is not a close friend
 
