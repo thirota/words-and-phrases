@@ -46,4 +46,5 @@ posture,the position in which you hold your body when standing or sitting
 exquisite,extremely beautiful or carefully made
 acquaintance,a person that you know but who is not a close friend
 solicit,"to ask somebody for something, such as support, money or information; to try to get something or persuade somebody to do something"
+interim,intended to last for only a short time until somebody/something more permanent is found
 
