@@ -45,4 +45,5 @@ customary,"if something is customary, it is what people usually do in a particul
 posture,the position in which you hold your body when standing or sitting
 exquisite,extremely beautiful or carefully made
 acquaintance,a person that you know but who is not a close friend
+solicit,"to ask somebody for something, such as support, money or information; to try to get something or persuade somebody to do something"
 
