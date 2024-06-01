@@ -52,3 +52,5 @@ exploit,to treat a person or situation as an opportunity to gain an advantage fo
 bestow,"to give something to somebody, especially to show how much they are respected"
 conform,to behave and think in the same way as most other people in a group or society
 mingle,"to move among people and talk to them, especially at a social event"
+thrive,"to become, and continue to be, successful, strong, healthy, etc."
+
