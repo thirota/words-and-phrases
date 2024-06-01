@@ -50,3 +50,5 @@ interim,intended to last for only a short time until somebody/something more per
 conceive,"to form an idea, a plan, etc. in your mind"
 exploit,to treat a person or situation as an opportunity to gain an advantage for yourself
 bestow,"to give something to somebody, especially to show how much they are respected"
+conform,to behave and think in the same way as most other people in a group or society
+
