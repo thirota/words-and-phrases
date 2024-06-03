@@ -54,4 +54,5 @@ conform,to behave and think in the same way as most other people in a group or s
 mingle,"to move among people and talk to them, especially at a social event"
 thrive,"to become, and continue to be, successful, strong, healthy, etc."
 exponentially,in a way that becomes faster and faster
+affluent,having a lot of money and a good standard of living
 
