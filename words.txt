@@ -55,4 +55,5 @@ mingle,"to move among people and talk to them, especially at a social event"
 thrive,"to become, and continue to be, successful, strong, healthy, etc."
 exponentially,in a way that becomes faster and faster
 affluent,having a lot of money and a good standard of living
+embark,"to get onto a ship or plane; to put somebody/something onto a ship or plane"
 
