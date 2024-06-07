@@ -59,4 +59,5 @@ embark,"to get onto a ship or plane; to put somebody/something onto a ship or pl
 fraction,a small part or amount of something
 concession,"the right to sell something in a particular place; the place where you sell it, sometimes an area that is part of a larger building or store"
 intimate,having a close and friendly relationship
+compulsory,that must be done because of a law or a rule
 
