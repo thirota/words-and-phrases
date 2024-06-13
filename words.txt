@@ -63,3 +63,5 @@ compulsory,that must be done because of a law or a rule
 plausible,(of an excuse or explanation) reasonable and likely to be true
 sanction,official permission or approval for an action or a change
 formidable,"if people, things or situations are formidable, you feel fear and/or respect for them, because they are impressive or powerful, or because they seem very difficult"
+spell,a short period of time during which something lasts
+
