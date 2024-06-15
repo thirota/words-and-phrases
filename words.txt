@@ -65,4 +65,6 @@ sanction,official permission or approval for an action or a change
 formidable,"if people, things or situations are formidable, you feel fear and/or respect for them, because they are impressive or powerful, or because they seem very difficult"
 spell,a short period of time during which something lasts
 trait,a particular quality in your personality
+sheer,complete and not mixed with anything else
+induce,to cause something
 
