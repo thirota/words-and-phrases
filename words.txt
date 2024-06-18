@@ -67,4 +67,5 @@ spell,a short period of time during which something lasts
 trait,a particular quality in your personality
 sheer,complete and not mixed with anything else
 induce,to cause something
+persuade,to make somebody do something by giving them good reasons for doing it
 
