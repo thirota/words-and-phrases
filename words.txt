@@ -68,4 +68,5 @@ trait,a particular quality in your personality
 sheer,complete and not mixed with anything else
 induce,to cause something
 persuade,to make somebody do something by giving them good reasons for doing it
+ailing,"(of a business, government, etc.) having problems and getting weaker"
 
