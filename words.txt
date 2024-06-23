@@ -72,4 +72,5 @@ ailing,"(of a business, government, etc.) having problems and getting weaker"
 resolute,strong and determined
 explicit,"(of a statement or piece of writing) clear and easy to understand, so that you have no doubt what is meant"
 endeavor,"an attempt to do something, especially something new or difficult"
+practically,"almost; very nearly"
 
