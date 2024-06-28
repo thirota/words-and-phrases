@@ -74,4 +74,5 @@ explicit,"(of a statement or piece of writing) clear and easy to understand, so 
 endeavor,"an attempt to do something, especially something new or difficult"
 practically,"almost; very nearly"
 sluggish,"moving, reacting or working more slowly than normal"
-
+hectic,very busy
+contamination,the process or fact of making a substance or place dirty or no longer pure by adding a substance that is dangerous or carries disease
