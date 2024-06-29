@@ -76,3 +76,5 @@ practically,"almost; very nearly"
 sluggish,"moving, reacting or working more slowly than normal"
 hectic,very busy
 contamination,the process or fact of making a substance or place dirty or no longer pure by adding a substance that is dangerous or carries disease
+set forth,to present something or make it known
+
