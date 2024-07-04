@@ -80,4 +80,5 @@ set forth,to present something or make it known
 plague,to cause pain or trouble to somebody/something over a period of time
 manipulate,"to control, use or change something with skill"
 compromise,to give up some of your demands in order to reach an agreement after disagreeing with somebody
+ailing,ill and not improving
 
